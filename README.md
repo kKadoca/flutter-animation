@@ -1,6 +1,6 @@
-# testing_flutter
+# testing_flutter_animations
 
-A new Flutter project.
+A new Flutter project about animations.
 
 ## Getting Started
 
